@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\metea\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
